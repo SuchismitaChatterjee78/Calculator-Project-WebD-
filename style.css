@@ -1,0 +1,41 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+} 
+
+.container{
+    text-align: center;
+    margin-top: 25px;
+}
+table{
+    margin: auto;
+}
+
+input{
+    font-size: 34px;
+    border: 10px rgb(173, 174, 174);
+    border-style: double;
+    border-radius: 20px;
+    margin: 10px;
+    height: 65px;
+}
+
+button{
+    font-size:30px;
+    font-weight: 900;
+    font-style: normal ;
+    background: rgba(255, 255, 255, 0.812);
+    width: 102px;
+    height: 55px;
+    border-radius: 20px;
+    border: 7px;
+    margin: 4px;
+    border-style: double;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: radial-gradient(white,rgb(230, 229, 229), rgb(170, 167, 167));
+}
+.calculator{
+    display: inline-block;
+    background-color: rgba(2, 2, 2, 0.687);
+    padding: 23px;
+    border-radius: 25px;  
+}
